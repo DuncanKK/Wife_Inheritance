@@ -86,6 +86,10 @@
             "GoOffDrug",
             "WillNotReceiveTraditionalMaleCircumcision",
             "WillReceiveMedicalMaleCircumcision",
+            "Professional_cleansers",
+            "NonProfessional_cleansers",
+            "Professional_inheritors",
+            "NonProfessional_inheritors",
             "WillReceiveTraditionalMaleCircumcision"
         ],
         "Custom_Node_Events": [],

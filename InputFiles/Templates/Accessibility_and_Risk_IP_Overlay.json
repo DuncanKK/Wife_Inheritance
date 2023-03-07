@@ -13,6 +13,24 @@
             "NodeName": "Homa_Bay",
             "IndividualProperties": [
                 {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
+                {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
                     "Initial_Distribution": [ 1, 0],
@@ -117,6 +135,24 @@
         {
             "NodeID": 2,
             "IndividualProperties": [
+                {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
                 {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
@@ -259,6 +295,24 @@
             "NodeID": 3,
             "IndividualProperties": [
                 {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
+                {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
                     "Initial_Distribution": [ 1, 0],
@@ -399,6 +453,24 @@
         {
             "NodeID": 4,
             "IndividualProperties": [
+                {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
                 {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
@@ -541,6 +613,24 @@
             "NodeID": 5,
             "IndividualProperties": [
                 {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
+                {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
                     "Initial_Distribution": [ 1, 0],
@@ -681,6 +771,24 @@
         {
             "NodeID": 6,
             "IndividualProperties": [
+                {
+                    "Property": "IsPurifier",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },		
+                    {
+                    "Property": "InheritWives",
+                    "Values": [ "NA", "Professional", "NonProfessional" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },							
+                    { 
+                    "Property": "WifeInheritanceStage",
+                    "Values": [ "NA", "PURIFICATION", "INHERITED_MARRIAGE" ],
+                    "Initial_Distribution": [ 1.0, 0.0, 0.0 ],
+                    "Transitions": []
+                },
                 {
                     "Property": "Known_Positive",
                     "Values": ["False", "True"],
