@@ -1,0 +1,4 @@
+Scenario,Campaign
+Baseline,campaign_Nyanza_baseline_new.json
+Intervention,campaign_Nyanza_WI_new.json
+
